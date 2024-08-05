@@ -442,10 +442,3 @@ footer {
 footer p {
   text-align: center;
 }
-
-/* HIDE PROJECTS TEMPORARILY */
-
-#project-2,
-#project-3 {
-  display: none;
-}
