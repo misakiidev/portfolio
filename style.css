@@ -94,11 +94,13 @@ a:hover {
 }
 
 .menu-links {
+  z-index: 100;
   position: absolute;
   top: 100%;
   right: 0;
   background-color: white;
   width: fit-content;
+  padding: 1rem;
   max-height: 0;
   overflow: hidden;
   transition: all 0.3 ease-in-out;
