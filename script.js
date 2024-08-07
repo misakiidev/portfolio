@@ -7,7 +7,7 @@ function toggleMenu() {
 
 function copyEmail() {
   // Copy the text inside the text field
-  navigator.clipboard.writeText("misakiigmd@gmail.com");
+  navigator.clipboard.writeText("contact@misakii.dev");
 
   // Alert the copied text
   alert("Copied the email to your clipboard!");
